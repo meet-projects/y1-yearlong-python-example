@@ -6,4 +6,4 @@ Remember, to run the program you must do:
 
     `python program.py`
 
-from the command line. 
+from the command line. Remember that to quit a running python program, press CTRL-C in the terminal.  
